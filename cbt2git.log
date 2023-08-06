@@ -1,0 +1,5 @@
+2023-08-06 08:25:17.498665 - Initialized conversion of CBT916
+2023-08-06 08:25:17.569224 - Received CBT.V505.FILE916.PDS from FILE916.XMI 
+2023-08-06 08:25:17.571954 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE916.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:25:17.572994 - Found @FILE916.txt (text/plain) in CBT.V505.FILE916.PDS, moved to PDS/@FILE916
+2023-08-06 08:25:17.573004 - Found XMITMG64.x-rar containing application/x-rar, moved to PDS/XMITMG64
