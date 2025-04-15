@@ -1,4 +1,4 @@
-2025-04-14 00:05:34.390171 - Received CBT.V508.FILE916.PDS from FILE916.XMI 
-2025-04-14 00:05:34.390903 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE916.PDS, moved to PDS/$$$#DATE
-2025-04-14 00:05:34.390993 - Found @FILE916.txt (text/plain) in CBT.V508.FILE916.PDS, moved to PDS/@FILE916
-2025-04-14 00:05:34.391480 - Found XMITMG64.x-rar (application/x-rar) in CBT.V508.FILE916.PDS, moved to PDS/XMITMG64
+2025-04-15 06:46:51.796213 - Received CBT.V508.FILE916.PDS from FILE916.XMI 
+2025-04-15 06:46:51.797074 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE916.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:46:51.797247 - Found @FILE916.txt (text/plain) in CBT.V508.FILE916.PDS, moved to PDS/@FILE916
+2025-04-15 06:46:51.798323 - Found XMITMG64.x-rar (application/x-rar) in CBT.V508.FILE916.PDS, moved to PDS/XMITMG64
